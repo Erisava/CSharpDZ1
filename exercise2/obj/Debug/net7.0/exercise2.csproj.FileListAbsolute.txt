@@ -1,0 +1,15 @@
+E:\C#DZ\CSharpDZ1\exercise2\bin\Debug\net7.0\exercise2.exe
+E:\C#DZ\CSharpDZ1\exercise2\bin\Debug\net7.0\exercise2.deps.json
+E:\C#DZ\CSharpDZ1\exercise2\bin\Debug\net7.0\exercise2.runtimeconfig.json
+E:\C#DZ\CSharpDZ1\exercise2\bin\Debug\net7.0\exercise2.dll
+E:\C#DZ\CSharpDZ1\exercise2\bin\Debug\net7.0\exercise2.pdb
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.csproj.AssemblyReference.cache
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.AssemblyInfoInputs.cache
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.AssemblyInfo.cs
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.csproj.CoreCompileInputs.cache
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.dll
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\refint\exercise2.dll
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.pdb
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\exercise2.genruntimeconfig.cache
+E:\C#DZ\CSharpDZ1\exercise2\obj\Debug\net7.0\ref\exercise2.dll
